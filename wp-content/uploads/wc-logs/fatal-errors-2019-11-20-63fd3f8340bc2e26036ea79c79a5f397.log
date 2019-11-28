@@ -1,0 +1,8 @@
+2019-11-20T04:08:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function tmhOAuth::request(), 1 passed in /homepages/22/d468642239/htdocs/wp-content/plugins/cs-framework/include/cs-twitter/display-tweets.php on line 43 and at least 2 expected in /homepages/22/d468642239/htdocs/wp-content/plugins/cs-framework/include/cs-twitter/includes/tmhOAuth.php:457
+Stack trace:
+#0 /homepages/22/d468642239/htdocs/wp-content/plugins/cs-framework/include/cs-twitter/display-tweets.php(43): tmhOAuth->request('https://api.twi...')
+#1 /homepages/22/d468642239/htdocs/wp-content/plugins/cs-framework/include/cs-twitter/display-tweets.php(83): get_auth('envato', '10')
+#2 /homepages/22/d468642239/htdocs/wp-content/plugins/cs-framework/include/cs-twitter/display-tweets.php(143): cache_json('envato', '10', '10')
+#3 /homepages/22/d468642239/htdocs/wp-content/themes/jobcareer/classes/widgets/class_twitter_widget.php(131): display_tweets('envato', 'time_since', '10', '2', '10')
+#4 /homepages/22/d468642239/htdocs/wp-includes/class-wp-widget.php(378): jo in /homepages/22/d468642239/htdocs/wp-content/plugins/cs-framework/include/cs-twitter/includes/tmhOAuth.php on line 457
+

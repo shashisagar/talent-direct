@@ -1,0 +1,6 @@
+2019-11-25 18:07:59 u73234256 zRQAr5-1heIL12UUa-00vM2i |< REMOTE=86.97.65.0 SCRIPT=/index.php -- /usr/sbin/sendmail -t -i
+2019-11-25 18:07:59 u73234256 zRQAr5-1heIL12UUa-00vM2i <= S=ashley.adam@vacancybroker.co.uk SZ=4790 D=0 SID=468642239
+2019-11-25 18:07:59 u73234256 zRQAr5-1heIL12UUa-00vM2i => ashley.adam@vacancybroker.co.uk msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=1MQNAv-1iDd9i2stt-00MHZ7
+2019-11-25 18:12:38 u73234256 zR6jE2-1iOflP1an3-00T6TZ |< REMOTE=86.97.65.0 SCRIPT=/index.php -- /usr/sbin/sendmail -t -i
+2019-11-25 18:12:38 u73234256 zR6jE2-1iOflP1an3-00T6TZ <= S=ashley.adam@vacancybroker.co.uk SZ=4790 D=0 SID=468642239
+2019-11-25 18:12:38 u73234256 zR6jE2-1iOflP1an3-00T6TZ => ashley.adam@vacancybroker.co.uk msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=1MXGes-1iJREG1uVa-00Ygs3
